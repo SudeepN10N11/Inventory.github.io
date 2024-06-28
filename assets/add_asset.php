@@ -41,7 +41,7 @@
             </ul>
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="../index.php">Back to Main Page</a>
+                    <a class="nav-link" href="../index.html">Back to Main Page</a>
                 </li>
             </ul>
         </div>
